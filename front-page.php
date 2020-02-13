@@ -12,3 +12,5 @@
 defined( 'ABSPATH' ) || exit;
 
 get_header(); ?>
+
+<h1>Helonaki website!!</h1>
